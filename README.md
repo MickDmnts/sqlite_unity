@@ -2,7 +2,7 @@
 
 ### Preset for SQLite integration and support for Unity.
 
-- Download the repository
+- Clone the repository
 - Move *SQLite* folder to *Assets/Plugins*
 - Enjoy
 
